@@ -1,3 +1,6 @@
+# NOME: ANGELO GREGORIO LOVATTO
+# NUSP: 9293435
+# 
 # valueIterationAgents.py
 # -----------------------
 # Licensing Information:  You are free to use or extend these projects for
